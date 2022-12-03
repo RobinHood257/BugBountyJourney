@@ -1,0 +1,2 @@
+# BugBountyJourney
+All about Bugz 
